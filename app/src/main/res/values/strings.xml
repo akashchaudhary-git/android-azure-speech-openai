@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Azure Speech</string>
+    <string name="ask_button">ask button</string>
+</resources>
