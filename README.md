@@ -1,3 +1,8 @@
+#Azure Speech + Azure OpenAI
+
+###Replace your key and region required in Mainactivity.java
+
+
 # Quickstart: Recognize speech from a microphone in Java on Android
 
 This sample demonstrates how to recognize speech with Java using the Speech SDK for Android.
